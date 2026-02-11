@@ -1,5 +1,3 @@
 # Auto-Dataset-Fuel-Efficiency-Analysis
 This project involves performing **exploratory data analysis on the Auto dataset** after removing missing values. The task includes identifying **quantitative and qualitative predictors**, calculating the **range, mean, and standard deviation** of quantitative variables, and re-evaluating these statistics after removing observations from the **10th to 85th rows**. The analysis also uses **graphical methods such as scatterplots** to study relationships among predictors and assess whether any variables appear useful in **predicting gas mileage (mpg)** based on observed trends and patterns.
 
-# Description
-This project  uses the Auto dataset to perform exploratory data analysis after removing missing values. It identifies quantitative and qualitative predictors, computes range, mean, and standard deviation, analyzes changes after removing selected observations, and uses visualizations to study relationships among variables. The analysis also evaluates which predictors may be useful in predicting gas mileage (mpg)
